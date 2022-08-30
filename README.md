@@ -1,2 +1,2 @@
-# owo-bot
-A Discord Selfbot That Farm OwO Cowoncy 24/7 Ban Bypassed!
+# Coming Soon
+I will add it gradually soon.
